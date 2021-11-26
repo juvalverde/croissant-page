@@ -8,6 +8,11 @@ body {
 }
 
 h1 {
+  font-size: 3px;
+  color: #fdf5df;
+}
+
+h2 {
   color: #5ebec4;
 }
 
